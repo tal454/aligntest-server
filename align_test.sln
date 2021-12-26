@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "align_test", "align_test\align_test.csproj", "{14B5D866-58CD-4529-A0B8-7CB703FFB808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infrastructure", "infrastructure\infrastructure.csproj", "{D4A99D1D-40C5-4B75-AEF5-FB6787BBA8F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14B5D866-58CD-4529-A0B8-7CB703FFB808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B5D866-58CD-4529-A0B8-7CB703FFB808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B5D866-58CD-4529-A0B8-7CB703FFB808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B5D866-58CD-4529-A0B8-7CB703FFB808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A99D1D-40C5-4B75-AEF5-FB6787BBA8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A99D1D-40C5-4B75-AEF5-FB6787BBA8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A99D1D-40C5-4B75-AEF5-FB6787BBA8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A99D1D-40C5-4B75-AEF5-FB6787BBA8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6615B490-2B45-4A9A-8776-DD1B553F9795}
+	EndGlobalSection
+EndGlobal
